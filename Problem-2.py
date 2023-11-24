@@ -1,9 +1,7 @@
 # Coded by : Sonu Shriram vishwakarma
-
 # Problem statement:
 
-"""
-
+cxvxcv
 In second year computer engineering class, group A student's paly criket, group B students play badminton and group C students play football
 
 write a Python program using functions to compute following:
